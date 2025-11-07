@@ -1,4 +1,4 @@
-🧠 Customer Segmentation using Unsupervised Learning (K-Means)
+#🧠 Customer Segmentation using Unsupervised Learning (K-Means)
 🌟 Project Summary
 
 This project is about understanding customer behavior using unsupervised learning — specifically, the K-Means clustering algorithm.
